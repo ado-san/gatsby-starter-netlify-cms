@@ -5,12 +5,12 @@ image: /img/home-jumbotron.jpg
 heading: 'Building Fast, Elegant & Secure Websites'
 subheading: We use latest technology and make it easy for anybody !
 mainpitch:
-  title: Why choose us
+  title: Why choose us ?
   description: >-
     AD Ventures has a wide tech experience building websites, apps and digital
     strategies to serve its clients.
 
-    From single entrepreneur to large companies, going through all startups
+    From single entrepreneurs to large companies, going through all startups
     sizes, we analyze the needs and provide the right tech solutions at the
     right time.
 description: >-
