@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: 'Building Fast, Elegant & Secure Digital Solutions'
+title: 'Building Fast, Elegant & Secure Digital Solutions '
 image: /img/home-jumbotron.jpg
 heading: 'Building Fast, Elegant & Secure Digital Solutions'
 subheading: We use latest technology and make it easy for anybody !
