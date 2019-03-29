@@ -27,6 +27,7 @@ export const ProductPageTemplate = ({
               <div
                 className="full-width-image-container margin-top-0"
                 style={{
+                  display : 'none',
                   backgroundImage: `url(${
                     !!image.childImageSharp
                       ? image.childImageSharp.fluid.src
