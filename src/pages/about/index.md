@@ -15,5 +15,5 @@ We use not only the latest technologies but the most suitable to your needs. For
 Choosing where to host your website is very important as it will impact its speed and security level. We work with the main hosting companies and can select the best one in terms of price and features. Few names : Amazon, OVH, GoDaddy, Gandi, Bluehost, Hostgator, Dreamhost, ...
 
 ### Our values
-We work with open source code, framework, softwares and try to respect the four essential freedoms of Free Software : the freedom to run the program as you wish, for nay purpose, to study how it works, to redistribute copies and to distribute them to others.
+We work with open source code, framework, softwares and try to respect the four essential freedoms of Free Software : the freedom to run the program as you wish, to study how it works and change it, to redistribute copies and to distribute them to others.
 
