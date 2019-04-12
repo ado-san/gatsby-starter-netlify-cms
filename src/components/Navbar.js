@@ -1,7 +1,10 @@
 import React from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
 import logo from "../img/ad-ventures-logo.png";
+import github from "../img/github-icon.svg";
+import instagram from '../img/social/instagram.svg'
+import twitter from '../img/social/twitter.svg'
+import mastodon from '../img/social/mastodon.svg'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -62,12 +65,15 @@ const Navbar = class extends React.Component {
             <div className="navbar-start has-text-centered" style={{ marginLeft: "auto"}}>
               <Link to="/" className="navbar-item">
                 Home
-              </Link>                    
-              <Link className="navbar-item" to="/about">
-                About
-              </Link>
+              </Link>                                  
               <Link className="navbar-item" to="/products">
                 Products
+              </Link>
+              <Link className="navbar-item" to="/blog">
+                Blog
+              </Link>
+              <Link className="navbar-item" to="/about">
+                About
               </Link>              
               <Link className="navbar-item" to="/contact">
                 Contact
@@ -82,6 +88,36 @@ const Navbar = class extends React.Component {
               >
                 <span className="icon">
                   <img src={github} alt="Github" />
+                </span>
+              </a>
+               <a
+                className="navbar-item"
+                href="https://twitter.com"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="icon">
+                  <img src={twitter} alt="Twitter" />
+                </span>
+              </a>
+               <a
+                className="navbar-item"
+                href="https://instagram.com"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="icon">
+                  <img src={instagram} alt="Instagram" />
+                </span>
+              </a>
+               <a
+                className="navbar-item"
+                href="https://mastodon.com"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="icon">
+                  <img src={mastodon} alt="Mastodon" />
                 </span>
               </a>
             </div>

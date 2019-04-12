@@ -2,10 +2,10 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 import logo from '../img/ad-ventures-logo-short.png'
-import facebook from '../img/social/facebook.svg'
+import github from "../img/github-icon.svg";
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
-import vimeo from '../img/social/vimeo.svg'
+import mastodon from '../img/social/mastodon.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -25,8 +25,8 @@ const Footer = class extends React.Component {
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
-                      <Link to="/" className="navbar-item">
-                        Home
+                      <Link to="/blog" className="navbar-item">
+                        Blog
                       </Link>
                     </li>
                     <li>
@@ -54,13 +54,14 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="facebook" href="https://facebook.com">
-                  <img
-                    src={facebook}
-                    alt="Facebook"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
+              <a title ="github" href="https://github.com/ado-san">
+                <img
+                  src={github}
+                  alt="Github"
+                  style={{ width: '1em', height: '1em' }}
+                />
+              </a>
+                
                 <a title="twitter" href="https://twitter.com">
                   <img
                     className="fas fa-lg"
@@ -76,10 +77,10 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="vimeo" href="https://vimeo.com">
+                <a title="mastodon" href="https://mastodon.com">
                   <img
-                    src={vimeo}
-                    alt="Vimeo"
+                    src={mastodon}
+                    alt="Mastodon"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
