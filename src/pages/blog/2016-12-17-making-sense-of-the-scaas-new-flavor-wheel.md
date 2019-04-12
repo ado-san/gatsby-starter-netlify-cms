@@ -1,11 +1,16 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: A Guide to Netlify Continuous Deployment From GitHub
 date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: >-
+  Continuous integration was the big thing. Today we will look into continuous
+  deployment solution : Netlify. It is directly based on your Github account and
+  deploys its content directly to your preferred domain name.
 tags:
-  - flavor
-  - tasting
+  - netlify
+  - github
+  - deployment
+  - continuous
 ---
 
 ![flavor wheel](/img/flavor_wheel.jpg)
