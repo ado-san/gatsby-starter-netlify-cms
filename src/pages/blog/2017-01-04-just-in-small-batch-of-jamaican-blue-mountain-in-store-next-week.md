@@ -11,10 +11,11 @@ tags:
   - lilypond
   - sheet
 ---
+I actually learned how to read music sheet by writing code. Lilypond makes its so easy that you will believe this is true story. 
+When music sheet looked like chinese to me, writing code like "c c g g a a" looked very familiar to me as I learnt to read guitar tablatures online. 
+"c c g g a a" means "do do sol sol la la" and Lilypond lets you generate beautiful music sheets from this simple code. Houra !!!!
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
-
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Let's learn how to make it work !
 
 ## A little history
 
