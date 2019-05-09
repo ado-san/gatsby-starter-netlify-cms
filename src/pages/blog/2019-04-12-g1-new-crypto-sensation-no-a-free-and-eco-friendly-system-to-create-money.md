@@ -1,8 +1,6 @@
 ---
 templateKey: blog-post
-title: >-
-  G1, new crypto sensation ? No, a free and eco-friendly system to create money
-  :)
+title: 'G1 (June) : a free and eco-friendly crypto-money :) '
 date: 2019-04-12T09:23:04.840Z
 description: >-
   Where all crypto money are burning a lot of energy to exist, another way of
@@ -16,6 +14,6 @@ tags:
   - g1
   - blockchain
 ---
-The crypto-money is based technically on the blockchain but without the ecological aberration ProofOfWork and on the Relative Theory of Money (TRM) published by S. Laborde ([here](https://en.trm.creationmonetaire.info/) in english).
+The crypto-money G1 is based technically on the blockchain but without the ecological aberration ProofOfWork and on the Relative Theory of Money (TRM) published by S. Laborde ([here](https://en.trm.creationmonetaire.info/) in english).
 
-We will not talk about the technical side, that can be very interested, but more about the principles of the TRM. This is where this currency originality comes from, and details of blockchain specifications can be found else where.
+We will not talk about the technical side, that can be very interesting, but we will look more into the principles of the TRM. This is where this currency originality comes from, and details of blockchain specifications can be found elsewhere.
