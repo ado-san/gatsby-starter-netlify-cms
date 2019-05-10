@@ -12,4 +12,6 @@ description: >-
 
   Let's go through this topic and play with this fun toy !
 ---
-bla bla bla bla
+I first tested the Kano OS to play with the story mode, here is a video about it : https://www.youtube.com/watch?v=EE3F9xBoHoQ
+
+I found it super interesting to explain, in an old-RPG style way, how a computer works in a fun way. It is good to refresh memory for the one knowing already the basics, and the new comers will enjoy a more user friendly way to learn computer science.
