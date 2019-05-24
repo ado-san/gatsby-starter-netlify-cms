@@ -6,4 +6,6 @@ description: >
   I tried a lot of online coding school platforms and the best so far I tested
   is CodinGame.
 ---
-bla bla bla
+If you are looking to learn how to code, you might want to start with an easier tool. Starting by learning the basis of a language, the key words and main concept (comparison, loops, ...). But once you want to practice CodinGame is a lot of fun !
+
+CodinGame
