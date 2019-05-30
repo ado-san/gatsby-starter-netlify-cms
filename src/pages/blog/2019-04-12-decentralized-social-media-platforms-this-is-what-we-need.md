@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Decentralized Social Media Platforms : this is what we need'
+title: 'Decentralized Social Media Platforms : this is what we need (•̀ᴗ•́)و ̑̑'
 date: 2019-04-12T09:20:08.404Z
 description: >-
   More and more people are wondering why we give so many personal data to few
