@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: A Guide to Netlify Continuous Deployment From GitHub
+title: A Guide to Netlify Continuous Deployment From GitHub (for lazy devs) ヽ(´ー｀)ノ
 date: 2016-12-17T15:04:10.000Z
 description: >-
   Continuous integration was the big thing. Today we will look into continuous
