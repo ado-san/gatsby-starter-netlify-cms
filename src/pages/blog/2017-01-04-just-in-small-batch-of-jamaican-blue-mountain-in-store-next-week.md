@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Writing music and code at the same time : Lilypond \U0001F3B6♫♪♫\U0001F3B6"
+title: 'Writing music and code at the same time : Lilypond ♫♪♫'
 date: 2017-01-04T15:04:10.000Z
 description: >-
   Today we will look inside Lilypond a tool to write musical sheets with code
