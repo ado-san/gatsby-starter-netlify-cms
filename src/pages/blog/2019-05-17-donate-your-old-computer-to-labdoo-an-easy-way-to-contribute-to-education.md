@@ -1,6 +1,8 @@
 ---
 templateKey: blog-post
-title: 'Donate your old computer to Labdoo : an easy way to contribute to education !'
+title: >-
+  Donate your old computer to Labdoo : an easy way to contribute to education !
+  (◕‿◕✿)
 date: 2019-05-17T02:01:40.618Z
 description: >-
 
