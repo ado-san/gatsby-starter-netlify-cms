@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Drawing and Coding unified and made easy with p5.js :)'
+title: Drawing and Coding unified and made easy with p5.js  (づ￣ ³￣)づ
 date: 2019-05-31T04:26:20.337Z
 description: >-
   p5.js makes coding accessible for artists, designers, educators and beginners
