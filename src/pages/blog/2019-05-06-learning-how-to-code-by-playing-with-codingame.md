@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Learning how to code by playing with CodinGame !
+title: Learning how to code by playing with CodinGame ! ....φ(︶▽︶)φ....
 date: 2019-05-06T03:27:50.161Z
 description: >
   I tried a lot of online coding school platforms and the best so far I tested
