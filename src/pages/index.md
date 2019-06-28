@@ -60,7 +60,7 @@ main:
     alt: test
     image: /img/products-grid3.jpg
   image2:
-    alt: test
+    alt: test 2
     image: /img/products-grid2.jpg
   image3:
     alt: test
