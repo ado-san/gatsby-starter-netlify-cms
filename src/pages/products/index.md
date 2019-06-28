@@ -39,12 +39,10 @@ intro:
     craft gorgeous code, hosted on secure infrastructure but we also deliver
     accessible solutions and we’re glad to pass that knowledge to anyone.
 main:
-  heading: Great coffee with no compromises
+  heading: We teach
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Teaching how to use our solutions is essential, because we think that what we build should be easily accessible to everybody. To do so, we organize free trainings at the end of a project, and any trainings when necessary on clients need.
+But as we think that new technology should be understand by everyone, we organize as well some training for young and old people.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
