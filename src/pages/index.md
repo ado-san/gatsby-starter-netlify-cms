@@ -60,7 +60,7 @@ main:
     alt: test
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: test
     image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
