@@ -39,12 +39,15 @@ intro:
     craft gorgeous code, hosted on secure infrastructure but we also deliver
     accessible solutions and we’re glad to pass that knowledge to anyone.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: 'We teach '
+  description: >-
+    Teaching how to use our solutions is essential, because we think that what
+    we build should be easily accessible to everybody. To do so, we organize
+    free trainings at the end of a project, and any trainings when necessary on
+    clients need.
+
+    But as we think that new technology should be understand by everyone, we
+    organize as well some training for young and old people.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -54,42 +57,41 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+testimonials: []
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: 'We maintain, re-use and recycle'
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Our web solutions might need some maintenance depending your ability to
+    update them for security reason. To address that, we have 3 monthly plans
+    our client can subscribe anytime. But we also work with an humanitarian
+    social network named LABDOO to re-use old hardware and give them to schools
+    all around the world.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for small to medium websites
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - >-
+          4 hours including : security updates + speed optimization + addition
+          of new content
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+      price: 2000 hkd/month
+    - description: Adjusted to medium to large e-commerce websites
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - >-
+          8 hours including : security updates + speed optimization + addition
+          of new content
+        - SEO optimization
+        - direct bug fix action
       plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+      price: 4000 hkd/month
+    - description: Want a customized service built on your needs ? Try our custom plan
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - >-
+          8 hours including : security updates + speed optimization + addition
+          of new content
+        - SEO optimization
+        - direct bug fix action
+        - adjusted services
       plan: Custom
       price: '??'
 ---
