@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'G1 (June) : a free and eco-friendly crypto-money :) [̲̅$̲̅(̲̅1)̲̅$̲̅]'
+title: 'G1 (June) : a free and eco-friendly crypto-money  [̲̅$̲̅(̲̅1)̲̅$̲̅]'
 date: 2019-04-12T09:23:04.840Z
 description: >-
   Where all crypto money are burning a lot of energy to exist, another way of
